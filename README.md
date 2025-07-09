@@ -11,7 +11,7 @@
  <br>
 
 ## 📈 Contributions
-The project [NoPixel-MiniGames-4.0](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0) is a completely free-to-use service. As long as I have time and interest I will continue to update and advance different aspects of this project. Whether that's new [MiniGames](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0#StartOfMiniGames) or general bug fixes. If you would like to contribute to this free-to-use project and me, [@MaximilianAdF](https://github.com/MaximilianAdF), in general, you can do it in the following ways:
+
   
    - 🙋 Follow me on GitHub [@MaximilianAdF](https://github.com/MaximilianAdF).
    - 🌟 Star [this repository](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0) (Top Right Corner).
